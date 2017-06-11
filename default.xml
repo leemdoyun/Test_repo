@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="."/>
+    <default revision="master" remote="origin"/>
+    <project path="embedded" name="embedded"/>
+    <project path="mygit" name="mygit"/>
+</manifest>
+
+

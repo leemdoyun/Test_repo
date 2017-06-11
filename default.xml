@@ -3,7 +3,7 @@
     <remote name="repoOri" fetch="."/>
     <default revision="master" remote="origin"/>
     <project path="embedded" name="embedded"/>
-    <project path="mygit" name="mygit"/>
+    <project path="mygit" revision="72cca3a85ebeae9b69c00c3af24e5f57665721b3" name="mygit"/>
 </manifest>
 
 

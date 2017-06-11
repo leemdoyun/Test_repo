@@ -2,7 +2,7 @@
 <manifest>
     <remote name="origin" fetch="."/>
     <default revision="master" remote="origin"/>
-    <project path="embedded" revision="test/tag/v1.0.0" name="embedded"/>
+    <project path="embedded" revision="test/tag/v1.0.1" name="embedded"/>
     <project path="mygit" revision="72cca3a85ebeae9b69c00c3af24e5f57665721b3" name="mygit"/>
 </manifest>
 

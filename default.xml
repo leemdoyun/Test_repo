@@ -2,6 +2,7 @@
 <manifest>
     <remote name="origin" fetch="."/>
     <!--default revision="master" remote="origin"/-->
+    <manifest-server url="https://github.com/leemdoyun/manifestserver.git"/>
     <project path="embedded" name="embedded" revision="master" remote="origin"/>
     <project path="mygit" name="mygit" revision="newb" upstream="newb" remote="origin"/>
 </manifest>

@@ -3,7 +3,7 @@
     <remote name="origin" fetch="."/>
     <default revision="master" remote="origin"/>
     <project path="embedded" name="embedded"/>
-    <project path="mygit" name="mygit" revision="72cca3a85ebeae9b69c00c3af24e5f57665721b3"/>
+    <project path="mygit" name="mygit" revision="5de423a958aac157d92cf79c7594a337b2e47d9d" upstream="newb"/>
 </manifest>
 
 

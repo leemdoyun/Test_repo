@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="." name="origin"/>
 
-  <default remote="origin" revision="master"/>
+  <default remote="origin"/>
 
   <project groups="em,my" name="embedded" />
   <project groups="notdefault" name="mygit"/>

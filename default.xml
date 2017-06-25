@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="https://github.com/leemdoyun/"/>
-    <!--default revision="master" remote="origin"/-->
-    <manifest-server url="git://android.git.kernel.org/platform/manifest.git"/>
-    <project path="embedded" name="embedded" revision="master" remote="origin"/>
-    <project path="mygit" name="mygit" revision="newb" upstream="newb" remote="origin"/>
+    <remote name="origin" fetch="."/>
+    <default revision="master" remote="origin"/>
+    <project path="mygit" revision="81d6a724a6269f4aaeeeb7ab99111f130f354c6b" name="mygit"/>
 </manifest>
-
-

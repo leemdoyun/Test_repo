@@ -5,5 +5,5 @@
   <default remote="origin" revision="master"/>
 
   <project name="embedded" revision="7830987788893b29136d9360a06a348cab11feac" upstream="master"/>
-  <project name="mygit" revision="47915059ce1bf1255c92b38e5ff88eedb370ba7e" upstream="newb"/>
+  <project name="mygit" upstream="newb"/>
 </manifest>

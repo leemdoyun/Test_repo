@@ -4,6 +4,6 @@
 
   <default remote="origin"/>
 
-  <project groups="em,my" name="embedded" />
-  <project groups="notdefault" name="mygit"/>
+  <project groups="em,my" name="embedded" revision="master"/>
+  <project groups="notdefault" name="mygit" revision="newb"/>
 </manifest>

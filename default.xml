@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="."/>
-    <default revision="master" remote="origin"/>
-    <project path="embedded" name="embedded"/>
-    <project path="mygit" revision="81d6a724a6269f4aaeeeb7ab99111f130f354c6b" name="mygit"/>
+  <remote fetch="." name="origin"/>
+
+  <default remote="origin" revision="master"/>
+
+  <project name="embedded" revision="7830987788893b29136d9360a06a348cab11feac" upstream="master"/>
+  <project clone-depth="2" name="mygit" revision="584398646a6e066a4ed443814f6e6dfb88db6353" upstream="master"/>
 </manifest>
